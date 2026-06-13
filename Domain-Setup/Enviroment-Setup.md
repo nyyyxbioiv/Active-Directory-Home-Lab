@@ -1,0 +1,3 @@
+- Windows server 2019/2022 installed on VM
+- Static IP configured: 192.168.100.1
+- DNS configured to self (localhost / server IP)
